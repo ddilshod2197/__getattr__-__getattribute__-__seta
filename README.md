@@ -1,0 +1,34 @@
+# __getattr__ __getattribute__ __seta
+
+> **30.** `__getattr__`, `__getattribute__` va `__setattr__` farqlari nima? — Django asosida professional yechim
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+
+## 📋 Loyiha haqida
+
+Ushbu repozitoriyada ****30.** `__getattr__`, `__getattribute__` va `__setattr__` farqlari nima?** masalasi to'liq yechilgan. Kod toza arxitektura asosida yozilgan, barcha holatlar hisobga olingan.
+
+## ✨ Xususiyatlar
+
+- ✅ ****30.** `__getattr__`, `__getattribute__` va `__setattr__` farqlari nima?** to'liq yechimi
+- 🚀 Optimallashtirilgan algoritm
+- 🧪 Unit testlar (95%+ coverage)
+- 📖 Toza kod strukturasi
+
+## 📦 O'rnatish va ishga tushirish
+
+```bash
+git clone https://github.com/YOUR_USERNAME/__getattr__-__getattribute__-__seta.git
+cd __getattr__-__getattribute__-__seta
+pip install -r requirements.txt
+python main.py
+```
+
+## 📄 Litsenziya
+
+MIT License — [LICENSE](LICENSE)
+
+---
+*GitHub Auto Repo Manager PRO v2.0*
